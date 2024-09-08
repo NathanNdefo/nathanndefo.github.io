@@ -1,6 +1,6 @@
 ---
 title: "How I Passed my CompTIA Security+ first time"
-date: 2012-08-14
+date: 2024-05-30
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
