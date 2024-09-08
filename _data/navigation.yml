@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/NathanNdefoHristov_CV.pdf
 
   - title: "Projects"
     url: /portfolio/
