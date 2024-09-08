@@ -1,7 +1,7 @@
 ---
 title: "How I Passed my CompTIA Security+ first time"
 date: 2024-05-30
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/30/Security+/
 tags:
   - cool posts
   - category1
