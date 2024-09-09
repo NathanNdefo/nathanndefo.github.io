@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏽Hi Welcome! I'm Nathan"
+title: "👋🏽Hi Welcome! I'm Nathan."
 author_profile: true
 redirect_from:
   - /about/
