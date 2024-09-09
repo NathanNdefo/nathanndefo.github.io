@@ -9,7 +9,7 @@ redirect_from:
 
 A Computer Science graduate with professional experience as an IT Field Engineer and aspiring cyber security specialist.
 
-## 🌐 Why cyber security?
+## Why cyber security?🌐
 
 The challenge of staying ahead of cyber adversaries and the importance of safeguarding valuable data and infrastructure is exciting and gives me motivation to continue to expand my knowledge. I am drawn to the blue team side of security with a focus on incident response, analysing potential threats and threat intelligence.
 
