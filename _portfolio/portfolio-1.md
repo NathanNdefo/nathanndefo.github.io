@@ -45,11 +45,13 @@ Once this was all setup I headed back over to Sentinel and tested to see if the 
 I now wanted to test creating a sentinel rule that alerts when there is a successful login to the VM I created. This rule looks for successful login attempts where the account being signed in is not a system account. Using the Analytics rule wizard, I set the MITRE ATT&CK technique as Initial Access as this would be the first foothold a potential malicious actor would have in the network via RDP.
 
 This is the review of the rule created:
+
 <img src='/images/Project1/Picture8.png'>
 
 To test this alert, I downloaded the RDP file for the VM and signed in. What I am expecting to happen is after 5 minutes I should receive an alert on Sentinel letting me know that there was a successful login.
 
 After 5 minutes checking in on my Incidents tab, we can see I got my first incident!
+
 <img src='/images/Project1/Picture9.png'>
 
 ## Creating an alert for a potential brute force attack
