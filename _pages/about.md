@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A Computer Science graduate with professional experience as an IT Field Engineer.
+A Computer Science graduate with professional experience as an IT Field Engineer and aspiring cyber security specialist.
 
 ## 🌐 Why cyber security?
 
