@@ -1,5 +1,5 @@
 ---
-title: "Setting up Microsoft Sentinel and creating alerts"
+title: "(Part 1) Setting up Microsoft Sentinel and creating alerts"
 excerpt: "Making use of Azure's free trial to spool up a VM, configure Microsoft Sentinel and create alerts!<br/><img src='/images/dashboard.png' width=500>"
 #collection: portfolio
 ---
