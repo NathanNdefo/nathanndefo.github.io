@@ -1,6 +1,6 @@
 ---
 title: "Setting up Microsoft Sentinel and creating alerts"
-excerpt: "In the project I will be making use of Azure's free trial to spool up a VM and configure Microsoft Sentinel<br/><img src='/images/dashboard.png' width=500>"
+excerpt: "Making use of Azure's free trial to spool up a VM, configure Microsoft Sentinel and create alerts!<br/><img src='/images/dashboard.png' width=500>"
 #collection: portfolio
 ---
 
@@ -75,7 +75,7 @@ Running this query in the logs tab in Sentinel, we can see the multiple failed l
 
 <img src='/images/Project1/Picture13.png'>
 
-## What I learned
+## What I learned 📝
 
 From this project, I learned how to set up and configure Microsoft Azure virtual machines (VMs) and Microsoft Sentinel. My key takeaways are:
 
