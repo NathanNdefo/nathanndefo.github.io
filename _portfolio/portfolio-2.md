@@ -3,6 +3,9 @@ title: "Part 1 - Creating a SOC home lab"
 excerpt: "In this first part of my project, I create the virtual network and subnets for my project which will be the foundation to build on top of. I also deploy and configure a FortiGate Next-Generation Firewall (NGFW). <br/><img src='/images/Project2/thumbnail.png' width=500>"
 #collection: portfolio
 ---
+<br/>  
+
+<br/>
 
 <img src='/images/Project2/NetworkDiagram.png' width=500>"
 
