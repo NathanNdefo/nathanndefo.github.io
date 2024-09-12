@@ -4,6 +4,10 @@ excerpt: "In this first part of my project, I create the virtual network and sub
 #collection: portfolio
 ---
 
+<img src='/images/Project2/NetworkDiagram.png' width=500>"
+
+
+
 After exploring setting up VMs, creating a log analytics workspace and creating alerts in Sentinel in intro to Microsoft Sentinel. I decided to try up my game a little by deploying and configuring a NGFW, along with a Windows Server accessible via RDP and a Linux Ubuntu VM which will act like a syslog server for the FortiGate logs.
 
 In this part 1 of my project I will cover:
