@@ -1,6 +1,6 @@
 ---
 title: "Part 3 - Creating a SOC home lab"
-excerpt: "To conclude my project, I will introduce the IPS capabilities of the FortiGate NGFW to block brute force attacks via RDP. The logs will be sent to a Linux syslog server and with the aid of data connectors and data collection rules (DCR), will be forwarded to a Log Analytics workspace. Custom KQL queries will be created to generate alerts for these brute force attempts in Microsoft Sentinel.<br/><img src='/images/Project2/Picture26.png' width=500>"
+excerpt: "To conclude my project, I will introduce the IPS capabilities of the FortiGate NGFW to block brute force attacks via RDP. The logs will be sent to a Linux syslog server and with the aid of data connectors and data collection rules (DCR), will be forwarded to a Log Analytics workspace. additionally, custom KQL queries will be created to generate alerts for these brute force attempts in Microsoft Sentinel.<br/><img src='/images/Project2/Picture26.png' width=500>"
 #collection: portfolio
 ---
 
