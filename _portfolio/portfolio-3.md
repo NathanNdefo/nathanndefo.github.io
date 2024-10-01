@@ -10,7 +10,7 @@ Continuing on from Part 1 where I have setup my Virtual Network (VNet), subnets 
 
 Starting with the setup of the Windows virtual machine, the process was largely the same as in the Introduction project. **However, there was one crucial difference: previously, I had enabled public inbound port 3389 (RDP) to attempt RDP via the public network. This time, I disabled this option to ensure that all traffic was routed through the FortiGate firewall I had created.** Essentially, this approach followed proper security practices by having the firewall intercept all attempted connections to the machines.
 
-<img src='/images/Project2/picture10.png' width=500>
+<img src='/images/Project2/Picture10.png' width=500>
 
 Also, I ensured that the VM was assigned to the correct subnet and virtual network in the network interface settings before creating the VM. I then went ahead and created the Linux VM following similar steps to the Windows VM, making sure that it was in the correct subnet and disabled public inbound ports.
 
